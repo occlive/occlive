@@ -1,5 +1,4 @@
-### Hello,I am occlive. 😄
-### My github is building.
+### 将会胜利。
 
 <!--
 **occlive/occlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
